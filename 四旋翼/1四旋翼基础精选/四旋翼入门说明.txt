@@ -1,0 +1,35 @@
+
+基础版：共十篇
+整理人：top liu
+
+按照基础程度进行推荐，尽量推荐人人皆可阅读的一般性文章，最后附上网盘链接。
+
+1.入门必读，这个文章针对性很强，理论也很基础
+Modeling, Estimation,and Control of Quadrotor
+
+2.介绍了APM及其他开源飞控的硬件及算法。看完可以动手了！
+Build Your Own Quadrotor  Open-Source Projects on Unmanned Aerial Vehicles.pdf
+
+3.maker杂志 无人机专辑
+Maker.Media.Homegrown.Drones.Jan.2014.pdf
+
+4. 体系结构
+Toward a fully autonomousUAV--Research Platform for Indoor and Outdoor
+
+5. 视觉控制飞行机器人，Astec Firefly十五位设计者共同撰文
+Vision-Controlled flying robotFrom System Design to Autonomous Navigation视觉控制飞行机器人  
+
+6. ArDrone设计师唯一一篇公开发表的文章
+The Navigation and Control technology inside the AR.Drone.pdf
+
+7.px4flow设计师光流
+px4flow_paper.pdf
+
+8.PIXHAWK体系结构设计
+PIXHAWK A Micro Aerial Vehicle Design for.pdf
+
+9. ROS软件应用
+Developing a ROS Enabled Full Autonomous Quadrotor.pdf
+An Open-Source Hardware_Software Architecture for Quadrotor UAVs.pdf
+
+http://yunpan.cn/cymmQCXvhEXnf  访问密码 bb69

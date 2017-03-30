@@ -1,0 +1,25 @@
+四旋翼光流文献精选
+
+1.光流技术综述
+A Survey of Optical Flow Techniques for Robotics Navigation Applications 
+
+2.视觉里程计综述
+VisualOdometry1
+VisualOdometry2
+
+3.基于光流的视觉导航：从昆虫原理到迷你无人机
+Optic Flow Based Visual Guidance_ From Flying   Insects to Miniature Aerial Vehicles
+
+
+4.那个不需要加速度计只用光流飞行的四旋翼beerotor
+beerotor-Controlling docking, altitude and speed in a circular high-roofed tunnel
+beerotor-Flying over uneven moving terrain based on optic-flow cues without any need for reference
+
+5.惯性-视觉组合卡尔曼滤波技术
+Inertially Aided Visual Odometry for Miniature Air Vehicles in GPS-denied Environments 
+
+6.px4flow开源光流传感器
+px4flow_paper
+
+7.SVO单目视觉里程计
+SVO Fast Semi-Direct Monocular Visual Odometry

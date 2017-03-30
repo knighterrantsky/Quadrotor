@@ -1,0 +1,26 @@
+四旋翼精选之PID
+
+by top
+exbot.net
+
+欲练神功，扎好马步，先学PID。
+
+想快速浏览就看
+PID Contr oller Tuning  A Shor t Tutorial
+Flying in Tune
+
+
+1. 快速入门
+PID Contr oller Tuning  A Shor t Tutorial
+
+2.乱七八糟的基础理论
+PID Control Theory
+
+3.PID控制系统分析与设计
+PID control system analysis and design
+PID Controller Design for Specified Performance
+The future of PID control
+
+4. 这。。。不就是APM吗？
+An Application of 4-Rotor Unmanned Aerial Vehicle_ Stabilization   Using PID Controller
+Flying in Tune
