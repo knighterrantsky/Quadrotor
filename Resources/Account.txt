@@ -1,0 +1,60 @@
+server addr:
+95.179.140.78
+password:
+6V.e6_(@V.K_]r-n
+
+ss:
+Starting Shadowsocks success
+
+Congratulations, Shadowsocks-Python server install completed!
+Your Server IP        :  95.179.140.78
+Your Server Port      :  8989
+Your Password         :  happyzhao
+Your Encryption Method:  aes-256-cfb
+
+Your QR Code: (For Shadowsocks Windows, OSX, Android and iOS clients)
+ ss://YWVzLTI1Ni1jZmI6aGFwcHl6aGFvQDk1LjE3OS4xNDAuNzg6ODk4OQ==
+Your QR Code has been saved as a PNG file path:
+ /root/shadowsocks_python_qr.png
+
+Welcome to visit: https://teddysun.com/486.html
+Enjoy it!
+
+Kcptun:
+恭喜! Kcptun 服务端安装成功。
+服务器IP:  95.179.140.78
+端口:  29900
+加速地址:  127.0.0.1:8989
+key:  happy
+crypt:  aes
+mode:  fast
+mtu:  1350
+sndwnd:  512
+rcvwnd:  512
+datashard:  10
+parityshard:  3
+dscp:  0
+nocomp:  false
+quiet:  false
+
+当前安装的 Kcptun 版本为: 20180316
+请自行前往:
+  https://github.com/xtaci/kcptun/releases/tag/v20180316
+手动下载客户端文件
+
+可使用的客户端配置文件为:
+{
+  "localaddr": ":8989",
+  "remoteaddr": "95.179.140.78:29900",
+  "key": "happy",
+  "crypt": "aes",
+  "mode": "fast",
+  "mtu": 1350,
+  "sndwnd": 512,
+  "rcvwnd": 512,
+  "datashard": 10,
+  "parityshard": 3,
+  "dscp": 0,
+  "nocomp": false,
+  "quiet": false
+}
